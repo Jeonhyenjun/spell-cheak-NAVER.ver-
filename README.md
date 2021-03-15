@@ -1,0 +1,1 @@
+# spell-cheak-NAVER.ver-
